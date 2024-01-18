@@ -10,7 +10,17 @@
 ### :woman_technologist: Обо мне :
 Меня зовут Дарья. Я начинающий Frontend разработчик.
 
-### :hammer_and_wrench: Языки программирования :
+### :spiral_notepad: Мои ключевые компетенции: 
+
+#### :one: Верстка сайтов для любых типов устройств
+
+#### :two: Работа с JS
+
+#### :three: Создание интерактивных веб-страниц
+
+#### :four: Навыки использования библиотеки React, React Router,  React Redux.
+
+### :hammer_and_wrench: Инструменты :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -77,6 +87,15 @@
 
 Используемые технологии: React, React Router, Redux Toolkit, Redux Saga.
 
+### :closed_book: Сертификаты и дипломы: 
+
+[Свидетельство](https://drive.google.com/file/d/1ebt1ObqZy-hKRwNxsaaYogjaWPTwhnik/view?usp=sharing)
+
+### Мои контакты:
+
+#### :email: Почта: tatarinova.du@gmail.com
+
+#### :scroll: [Резюме](https://docs.google.com/document/d/1dtWVqM3tTiQRw-KsC4oiaVSjq6jxtL2M/edit?usp=sharing&ouid=100821322604677591132&rtpof=true&sd=true)
 
 
 
