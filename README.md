@@ -96,7 +96,9 @@
 Страница с текущими курсами валют. На этой странице пользователь видит «свежие» курсы валют относительно базовой валюты —
 например, если базовая валюта — рубль, то пользователь видит, что 1 USD = 63.49 RUB, а 1 EUR = 72.20 RUB
  
-Ссылка: [MoneyManager](﻿https://daritat.github.io/Converter/)
+Ссылка:
+[Train tickets](﻿https://daritat.github.io/Converter/)
+
   
 Используемые технологии: React, React Router, Bootstrap
 
