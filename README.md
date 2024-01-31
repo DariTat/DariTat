@@ -59,7 +59,7 @@
 
 Задача: разработать приложение для управления финансами. Реализовать JS-логику. 
 
-Ссылка: [MoneyManger](https://money-manager-gj0c.onrender.com)
+Ссылка: [MoneyManger](https://github.com/DariTat/bhj-diploma)
 
 Используемые технологии: JS
 
