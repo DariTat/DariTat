@@ -104,7 +104,7 @@
 
 #### :email: Почта: tatarinova.du@gmail.com
 
-#### :scroll: [Резюме]([https://docs.google.com/document/d/1vXkItWqkzeu3I3C5srzCDRGXQoUmPXvP7Xtdu1J-ySo/edit?usp=sharing)https://docs.google.com/document/d/1vXkItWqkzeu3I3C5srzCDRGXQoUmPXvP7Xtdu1J-ySo/edit?usp=sharing])
+#### :scroll: [Резюме](https://docs.google.com/document/d/1vXkItWqkzeu3I3C5srzCDRGXQoUmPXvP7Xtdu1J-ySo/edit?usp=sharing)https://docs.google.com/document/d/1vXkItWqkzeu3I3C5srzCDRGXQoUmPXvP7Xtdu1J-ySo/edit?usp=sharing)
 
 
 
